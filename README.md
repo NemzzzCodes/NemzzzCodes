@@ -1,7 +1,7 @@
 <img src="https://avatars.githubusercontent.com/u/000000?v=4" width="120" align="left" style="border-radius:50%" />  
 
 # Hi there! 👋  
-I'm **Zhanzak Muhammed** 🐍  
+I'm **Muhammed** 🐍  
 Backend Developer & Software Engineer 💻  
 
 ---
